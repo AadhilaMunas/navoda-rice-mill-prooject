@@ -1,0 +1,224 @@
+.header{
+   text-align: center;
+}
+
+.registerlorryheader{
+    color: rgb(80, 79, 79);
+}
+
+.cont{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    gap: 250px;
+}
+
+.ricebox{
+    display: block;
+    gap: 30px;
+    margin-top: 10%;
+} 
+
+.rice h1{
+    text-align: center;
+    color:rgb(80, 79, 79) ;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.other h1{
+    text-align: center;
+    color:rgb(80, 79, 79) ;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card{
+    margin-top: 4%;   
+}
+
+
+
+.btn{
+    padding: 5px;
+}
+
+.rbtn{
+    padding: 5px 30px;
+}
+
+.card-title{
+    color: rgb(80, 79, 79);
+}
+
+.button{
+    display: flex;
+    gap: 20px;
+}
+
+.popup{
+    background: rgba(0,0,0,0.6);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+}
+
+.popup h1{
+    color: rgb(80, 79, 79);
+    margin-left: 7%;
+    
+}
+
+.popup-content{
+    height: 410px;
+    width: 500px;
+    background: #fff;
+    margin: auto;
+    margin-left: 24%;
+    margin-top: 10%;
+    border-radius: 4px;
+    border: 2px solid rgb(120, 120, 120);
+    
+}
+
+.husk{
+    display: none;
+}
+
+.huskpopup-content{
+    height: 500px;
+    width: 500px;
+    background: #fff;
+    margin: auto;
+    margin-left: 24%;
+    margin-top: -40%;
+    border-radius: 4px;
+    color: rgb(80, 79, 79);
+    border: 2px solid rgb(182, 181, 181);
+    z-index: 1;
+   
+    
+}
+
+.huskpopup-content h1{
+    margin-left: 5%;
+}
+
+
+
+.form-group{
+ margin: 10px; 
+ margin-left: 10%;  
+}
+
+.form-control{
+    width: 90%;
+}
+
+.submit{
+  margin-left: 30%;
+  padding: 5px 14px;
+  margin-top: 4%;
+}
+
+.fa-regular{
+    margin-left: 95%;
+    margin-top: 2%;
+    cursor: pointer;
+}
+
+.open-popup{
+    visibility: visible;   
+}
+
+.close-popup{
+   visibility: hidden;
+}
+
+
+
+.open-huskpop{
+    display: flex;
+}
+
+.close-huskpop{
+    display: none;
+}
+
+
+.huskcontent{
+    color: black;
+    width: 200%;
+    margin-left: -70%;
+}
+
+
+.head{
+    display: flex;
+    gap: 70%;
+
+}
+
+.invoice{
+    width: 50%;
+    height: auto;
+    margin-left: 35%;
+    border-radius: 10px;
+    margin-top: -90%;
+}
+
+.for{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.lorrybutt{
+    margin-left: 49%;
+}
+
+.lorryregbtn{
+    display: flex;
+    gap: 70%;
+}
+
+.barchart{
+   margin-left: 15%;
+}
+
+.bill-cont{
+    width: 40%;
+    margin: auto;
+    margin-left: 3%;
+
+}
+
+.scale{
+    display: flex;
+    width: 93%;
+}
+
+.scale1{
+    display: block;
+
+}
+
+table{
+    width: 400px;
+    border-collapse: collapse;
+}
+
+
+table ,tr, td{
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+
+tr, td{
+    padding: 10px;
+}

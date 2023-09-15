@@ -1,0 +1,19 @@
+Jhone 80 100 92 88
+Peter 70 80 68 88
+Steve 20 50 56 40
+Stnley 30 20 42 15
+Anne 80 50 84 62
+Eve 30 25 40 50
+Alexa 30 70 52 64
+Adam 50 60 30 54
+Jonathan 20 50 64 80
+Jhone 535
+Peter 605
+Steve 625
+Stnley 655
+Anne 735
+Eve 765
+Alexa 795
+Adam 845
+Jonathan 865
+Emma 875
